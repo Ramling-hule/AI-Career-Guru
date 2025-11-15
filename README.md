@@ -153,7 +153,7 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-**Ramling Huling**
+**Ramling Hule**
 B.Tech CSE, MNNIT Allahabad
 Passionate about AI + Web Development
 
